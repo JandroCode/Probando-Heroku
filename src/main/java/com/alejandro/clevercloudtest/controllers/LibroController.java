@@ -2,8 +2,6 @@ package com.alejandro.clevercloudtest.controllers;
 
 import com.alejandro.clevercloudtest.models.entity.Libro;
 import com.alejandro.clevercloudtest.models.entity.dao.ILibroDAO;
-import com.fasterxml.jackson.annotation.JsonCreator.Mode;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
